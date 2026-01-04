@@ -1,1 +1,1 @@
-# AI-Based-Brain-Stroke-Detection
+# Brain-Stroke-Detection
